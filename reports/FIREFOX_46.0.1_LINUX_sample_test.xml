@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="sample_test"
+    errors="0" failures="0" hostname="" id="" package="sample_test" skipped="0"
+    tests="2" time="81.92" timestamp="Sun, 22 May 2016 18:06:56 GMT">
+  
+    <testcase name="Demo login test" time="52.12" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="flight search" time="29.81" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
